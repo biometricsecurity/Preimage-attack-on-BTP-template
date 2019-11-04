@@ -75,7 +75,7 @@ SA_BioHashing_multiple.m
 ```
 jjj indicates how many templates are compromised and are used to reconstruct the feature vector.
 
-By downloading and using this source code, you AGREE to the terms and conditions below.
+# By downloading and using this source code, you AGREE to the terms and conditions below.
 
 ----------------------------------
 
