@@ -56,7 +56,7 @@ save(['data/bloomfilter/bf_templates',num2str(opts.N_BITS_BF),'.mat'],'bf_templa
 
 for j=starti:endi
     %rng default % For reproducibility
-    f_fitness = @(x)fitness_bloomfilter_twohashcode(x,bf_templates(attack_ids((j-1)*3+1),:),opts); % fitness function
+    f_fitness = @(x)fitness_bloomfilter(x,bf_templates(attack_ids((j-1)*3+1),:),opts); % fitness function
     f_constr = []; % constrain function
     
     reconstruct_x(j,:) = reconstruct_bloom(f_fitness,f_constr,opts);
