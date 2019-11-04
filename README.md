@@ -85,6 +85,7 @@ I agree:
 2) to use the codes and generated data for research purposes only.
 3) not to provide the codes or generated data to third parties without the notice of copyright © (Dong, X., Jin, Z., Teoh, A. B. J., Tistarelli, M., & Wong, K) and this agreement.
 
+```bash
 @inproceedings{dong-BTAS-2019,
   title={A Genetic Algorithm Enabled Similarity-Based Attack on Cancellable Biometrics},
   author={Xingbo Dong and  Zhe Jin and Andrew Teoh Beng Jin},
@@ -92,13 +93,15 @@ I agree:
   pages={},
   organization={IEEE}
 }
+```
+```bash
 @article{dong-reliability-2019,
       title={On the Reliability of Cancelable Biometrics: Revisit the Irreversibility},
       author={Dong, Xingbo and Jin, Zhe and Teoh, Andrew Beng Jin and Tistarelli, Massimo and Wong, KokSheik},
       journal={arXiv preprint arXiv:1910.07770},
       year={2019}
     }
-
+```
 ----------------------------------
 
 Copyright © 2019, Dong, X., Jin, Z., Teoh, A. B. J., Tistarelli, M., & Wong, K. All rights reserved.
