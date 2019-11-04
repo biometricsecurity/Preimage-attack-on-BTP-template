@@ -75,7 +75,33 @@ SA_BioHashing_multiple.m
 ```
 jjj indicates how many templates are compromised and are used to reconstruct the feature vector.
 
+By downloading and using this source code, you AGREE to the terms and conditions below.
 
+----------------------------------
+
+I agree:
+
+1) to cite [dong-BTAS-2019] and [dong-reliability-2019] in any paper of mine or my collaborators that makes any use of the source code or data generated from these codes.
+2) to use the codes and generated data for research purposes only.
+3) not to provide the codes or generated data to third parties without the notice of copyright © (Dong, X., Jin, Z., Teoh, A. B. J., Tistarelli, M., & Wong, K) and this agreement.
+
+@inproceedings{dong-BTAS-2019,
+  title={A Genetic Algorithm Enabled Similarity-Based Attack on Cancellable Biometrics},
+  author={Xingbo Dong and  Zhe Jin and Andrew Teoh Beng Jin},
+  booktitle={10th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS)},
+  pages={},
+  organization={IEEE}
+}
+@article{dong-reliability-2019,
+      title={On the Reliability of Cancelable Biometrics: Revisit the Irreversibility},
+      author={Dong, Xingbo and Jin, Zhe and Teoh, Andrew Beng Jin and Tistarelli, Massimo and Wong, KokSheik},
+      journal={arXiv preprint arXiv:1910.07770},
+      year={2019}
+    }
+
+----------------------------------
+
+Copyright © 2019, Dong, X., Jin, Z., Teoh, A. B. J., Tistarelli, M., & Wong, K. All rights reserved.
 
 
 
