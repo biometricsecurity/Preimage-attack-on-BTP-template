@@ -1,4 +1,4 @@
-==Please raise your questions in the Issues section and I will take a look at the issues, do not send me emails.==
+**Please raise your questions in the Issues section and I will take a look at the issues, do not send me emails.**
 
 # Usage based on BioHashing example
 
